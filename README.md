@@ -1,2 +1,5 @@
 # Programs
-This is about finding a number is prime or not
+
+
+This is about finding the duplicate number in array
+
